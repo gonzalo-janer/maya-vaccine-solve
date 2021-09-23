@@ -1,22 +1,28 @@
 #########################################################################################
 ################################_________READ.ME_________################################
 #########################################################################################
+#
+# https://github.com/gonzalo-janer/maya-vaccine-virus-solve
+#
 # This script recursively finds .ma MAYA files infected with the vaccine virus.
 # It outputs the absolute paths of infected files to: vaccine_infected_files.txt
+#
 # How to use this script:
 #     1. Copy this file to the parent directory of MAYA files to scan
 #     2. Open a terminal/powershell and cd into the directory with this script
 #     3. Execute the script: python3 list_vaccine_infected_files.py
 #     4. DONE!
-# Terminal output will read the number and names of infected files.
-# In this same directory, a new file that lists the absolute paths to infected .ma files.
-# Name of this output file: vaccine_infected_files.txt
 #
-# Any questions or issues with this script, reach out on github @gonzalo-janer.
+# Terminal output will read the number and names of the infected files found.
+# In this same directory, a new file can be found that lists the absolute paths.
+# Name of this output file: "vaccine_infected_files.txt"
+#
+# Any questions or issues with this script, please contact @gonzalo-janer - github.
 #
 #########################################################################################
 ################################_______DEPENDENCIES_______###############################
 #########################################################################################
+#
 # REQUIRES python 3.5 of higher
 #
 #########################################################################################
