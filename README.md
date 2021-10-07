@@ -87,7 +87,7 @@ Terminal output will read the names and number of infected backups deleted.
 
 ## 4. delete_vaccine_remnants.py
 
-Last step is to delete the .py files that cause new maya files to become infected.
+Last step is to delete the .py files created by the virus that cause new maya files to become infected.
 
 COMING SOON
 
